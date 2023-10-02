@@ -18,16 +18,13 @@ Tagline
 ![pulp fiction poster](images/Pulp-Fiction-Dance-Scene-What-Makes-this-Quentin-Tarantino-Scene-So-Great-scaled.jpg)
 ![Nara singing](images/133780238_10218862006688012_1637447186690295241_n.jpg)
 
-=======
-# Latin Guys
-Tagline 
 
 ## Rodrigo Nascimento
 ***Hobies:***
 1. Play Guitar
-2. Drawn pets and cartoons (@cartonobre)
+2. Drawn pets and cartoons
 3. Play Old Video Games
-4. Formula 1
+4. Formula 1 races
 5. Listen to Kiss Songs
 
 ***Favorite Movies:***
