@@ -41,4 +41,5 @@ Tagline
 ![Wolf of wall street scene](images/wolf_of_wall_street_scene.jpg)
 ![Formula 1 battle](images/formula_1_battle.jpg)
 ![Kiss concert](images/kiss_concert.jpg)
+
 >>>>>>> Stashed changes
