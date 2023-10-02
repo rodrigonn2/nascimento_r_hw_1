@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# repo_homework_1
-Repository created for the 1054 Multimedia Authoring Homework 1
-=======
 # Latin Guys
 Tagline 
 
@@ -22,6 +18,9 @@ Tagline
 ![pulp fiction poster](images/Pulp-Fiction-Dance-Scene-What-Makes-this-Quentin-Tarantino-Scene-So-Great-scaled.jpg)
 ![Nara singing](images/133780238_10218862006688012_1637447186690295241_n.jpg)
 
+=======
+# Latin Guys
+Tagline 
 
 ## Rodrigo Nascimento
 ***Hobies:***
@@ -41,5 +40,3 @@ Tagline
 ![Wolf of wall street scene](images/wolf_of_wall_street_scene.jpg)
 ![Formula 1 battle](images/formula_1_battle.jpg)
 ![Kiss concert](images/kiss_concert.jpg)
-
->>>>>>> Stashed changes
